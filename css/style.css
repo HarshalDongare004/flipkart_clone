@@ -1,0 +1,210 @@
+body{
+    background-color: #F1F3F6;
+}
+/* The whole container */
+div.a_cont{
+    /* height:100%; */
+    width:99.9%;
+     height:11408px;      /* 11834 - 96-330 */
+    border: 1px solid red;
+  
+}
+
+header{
+    /* height: 167px;     NEGLECT THAT*/
+    width:99.9%;
+    /* border: 1px solid teal; */
+}
+.header_top{
+    height: 56px;
+    background-color: #2874F0;
+}
+.header_bottom{
+    height: 111px;
+    background-color: #FFFFFF;
+
+}
+.main_1{
+    margin-top: 8px;
+    height:280px;
+    /* border: 1px dashed red; */
+    padding: 0px;
+    margin-bottom: 8px ;
+    /* border: 1px solid red; */
+}
+/* something to do here */
+.main_2{
+    height: 353px;
+    margin-top: 10px;
+    border-top: 1px solid #E3E3E3;
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 5px 3px rgba(0,0,0,0.2);
+    border-top: 1 px solid #e4e6e9;
+}
+.main_3{
+    margin-top: 12px;
+    height:223px;
+    border: 1px dashed green;
+    background-color: #e4e6e9;
+}
+.main_4{
+    height:223px;
+    background-color: #e4e6e9;
+    border: 1px dashed rebeccapurple;
+}
+.main_5{
+    height: 349px;
+    border: 1px solid red;
+    background-color: #FFFFFF;
+}
+.main_6{
+    height: 223px;
+    border: 1px dotted firebrick;
+
+}
+.main_7{
+    height: 302px;
+    border: 1px dotted yellowgreen;
+    background-color: #FFFFFF;
+}
+.main_8{
+    height: 223px;
+    border: 1px dotted green;
+    background-color: #e4e6e9;
+}
+.main_9{
+    height: 349px;
+    background-color: #FFFFFF;
+    border: 1px dashed green;
+}
+.main_10{
+    height: 223px;
+    border: 1px dotted red;
+    background-color: #e4e6e9;
+}
+.main_11{
+    height: 349px;
+    background-color: white;
+    border: 1px dashed green;
+}
+.main_12{
+    height: 223px;
+    border: 1px dotted rebeccapurple;
+    background-color: #e4e6e9;
+}
+.main_13{
+    height: 349px;
+    background-color: white;
+    border: 1px dashed green;
+
+
+}
+.main_14{
+    height: 223px;
+    background-color: #e4e6e9;
+    border: 1px dashed greenyellow;
+}
+.main_15{
+    height: 302px;
+    background-color: white;
+    border: 1px dashed rebeccapurple
+}
+.main_16{
+    height: 131px;
+    background-color: #e4e6e9;
+    border: 1px dashed red;
+}
+
+.main_17{
+    height: 349px;
+    background-color: white;
+    border: 1px dashed orange
+}
+.main_18{
+    height: 223px;
+    background-color: #e4e6e9;
+    border: 1px dashed green;
+}
+.main_19{
+    height: 302px;
+    background-color: white;
+    border: 1px dashed orange ;
+}
+.main_20{
+    height: 223px;
+    background-color: #e4e6e9;
+    border: 1px dashed green;
+}
+.main_21{
+    height: 349px;
+    background-color: white;
+    border: 1px dashed green;
+}
+.main_22{
+    height: 223px;
+    background-color: #e4e6e9;
+    border: 1px dashed green;
+}
+.main_23{
+    height:349px;
+    background-color: white;
+    border: 1px dashed green;
+
+}
+.main_24{
+    height:302px;
+    background-color: white;
+    border: 1px dashed green;
+}
+.main_25{
+    height:352px;
+    background-color: white;
+    border: 1px dashed green;
+}
+.main_26{
+    height: 131px;
+    background-color: #e4e6e9;
+    border: 1px dashed green;
+}
+.main_27{
+    height: 349px ;
+    background-color: white;
+    border: 1px dashed green;
+}
+.main_28{
+    height: 223px;
+    background-color: #e4e6e9;
+    border: 1px dashed green;
+}
+.main_29{
+    height: 223px;
+    background-color: #e4e6e9;
+    border: 1px dashed green;
+}
+.main_30{
+   height: 223px ; 
+   background-color: #e4e6e9;
+   border: 1px dashed green;
+}
+.main_31{
+    height: 223px;
+    background-color: #e4e6e9;
+    border: 1px dashed green;
+}
+.main_32{
+    height: 223px;
+    background-color: #e4e6e9;
+    border: 1px dashed green;
+}
+
+
+/* FOOTER SECTION HERE */
+
+footer{
+    height:330px;
+    width:99.9%;
+    border: 1px solid black ;
+    display: block;
+    background-color: #172337;
+    /* background-color: rgb(23,35,55); */
+}
